@@ -15,9 +15,8 @@ Requirements:
 
 Also include:
 
-- Day and period timings.
-- Subject-wise weekly hours.
-- A list of all 6 subjects.
-- A short explanation of the timetable.
+- Monday to Saturday.
+- Tamil=4, English=3, Maths=5, Applied science=4,C Program=6, fundamentals of CSE=4.
+- Tamil, English, Maths, Applied science,C program, fundamentals of CSE.
 
 Make the timetable realistic, professional, and suitable for a second-year CSE college student.
